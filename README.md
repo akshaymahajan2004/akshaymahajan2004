@@ -103,6 +103,11 @@ An editorial-style personal site with a custom rendering layer and a small CMS.
 </div>
 
 ---
+## Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akshaymahajan2004/akshaymahajan2004/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
+</div>
 
 ## Open Source & Collaboration
 
