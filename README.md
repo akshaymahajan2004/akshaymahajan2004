@@ -73,7 +73,7 @@ A luxury real-estate platform with a public discovery experience and an authenti
 - **Product features:** synced Leaflet map, 2D/3D floor-plan viewer, multi-step visit booking, saved-property comparison, lead pipeline (`NEW → CONTACTED → QUALIFIED → CLOSED`)
 - **SEO:** JSON-LD structured data, dynamic sitemap
 
-### [Portfolio](https://github.com/akshaymahajan2004/akshay-mahajan-portfolio) · [Live](https://akshay-mahajan-portfolio.vercel.app)
+### [Portfolio](https://github.com/akshaymahajan2004/akshay-mahajan-portfolio) · [Live](https://akshaymahajan24.vercel.app)
 
 An editorial-style personal site with a custom rendering layer and a small CMS.
 
